@@ -55,9 +55,4 @@ Dataset columns:
 - NLTK
 - TF-IDF Vectorizer
 
----
 
-## Project Workflow
-
-### Updated
-updated the README.md file.
