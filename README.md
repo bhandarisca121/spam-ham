@@ -55,15 +55,4 @@ Dataset columns:
 - NLTK
 - TF-IDF Vectorizer
 
----
 
-## Project Workflow
-
-### 1. Data Loading
-
-The dataset is loaded using Pandas.
-
-```python
-import pandas as pd
-
-data = pd.read_csv("spam.csv")
